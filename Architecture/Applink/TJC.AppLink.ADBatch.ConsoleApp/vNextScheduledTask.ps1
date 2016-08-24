@@ -16,7 +16,7 @@ Try
 	# Create the application backup directory
 	if (!(Test-Path $AppBackupFolderName -ErrorAction Stop))
 	{
-		#New-Item $AppBackupFolderName -type directory -ErrorAction Stop
+		New-Item $AppBackupFolderName -type directory -ErrorAction Stop
 	}
 
 	# Take a backup
