@@ -1,0 +1,11 @@
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\TJC.AppLink.BusinessEntity.ClassLibrary.dll
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\TJC.AppLink.BusinessEntity.ClassLibrary.pdb
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\TJC.AppLink.DAL.ClassLibrary.dll
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\TJC.AppLink.Models.ClassLibrary.dll
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\EntityFramework.dll
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\TJC.AppLink.DAL.ClassLibrary.pdb
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\bin\TJC.AppLink.Models.ClassLibrary.pdb
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\obj\Debug\TJC.AppLink.BusinessEntity.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\obj\Debug\TJC.AppLink.BusinessEntity.ClassLibrary.dll
+C:\Test\Architecture\Applink\TJC.AppLink.BusinessEntity.ClassLibrary\obj\Debug\TJC.AppLink.BusinessEntity.ClassLibrary.pdb

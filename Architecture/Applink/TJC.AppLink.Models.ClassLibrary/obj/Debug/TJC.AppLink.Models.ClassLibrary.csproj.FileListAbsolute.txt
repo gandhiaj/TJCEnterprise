@@ -1,0 +1,5 @@
+C:\Test\Architecture\Applink\TJC.AppLink.Models.ClassLibrary\bin\TJC.AppLink.Models.ClassLibrary.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Models.ClassLibrary\bin\TJC.AppLink.Models.ClassLibrary.pdb
+C:\Test\Architecture\Applink\TJC.AppLink.Models.ClassLibrary\obj\Debug\TJC.AppLink.Models.ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Test\Architecture\Applink\TJC.AppLink.Models.ClassLibrary\obj\Debug\TJC.AppLink.Models.ClassLibrary.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Models.ClassLibrary\obj\Debug\TJC.AppLink.Models.ClassLibrary.pdb

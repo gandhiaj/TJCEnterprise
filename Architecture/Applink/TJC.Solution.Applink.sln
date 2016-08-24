@@ -1,0 +1,151 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJC.Applink.RestWebAPIService", "TJC.Applink.RestWebAPIService\TJC.Applink.RestWebAPIService.csproj", "{C134964A-D5E4-44C3-A81B-B746D8972A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJC.Applink.RestWebAPIService.UnitTests", "TJC.Applink.RestWebAPIService.UnitTests\TJC.Applink.RestWebAPIService.UnitTests.csproj", "{546ECD63-5044-4A75-8987-A23AD6BA6797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJC.AppLink.BusinessEntity.ClassLibrary", "TJC.AppLink.BusinessEntity.ClassLibrary\TJC.AppLink.BusinessEntity.ClassLibrary.csproj", "{08B02169-C010-49FB-B249-2D3AC1C1CEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJC.AppLink.Models.ClassLibrary", "TJC.AppLink.Models.ClassLibrary\TJC.AppLink.Models.ClassLibrary.csproj", "{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJC.AppLink.DAL.ClassLibrary", "TJC.AppLink.DAL.ClassLibrary\TJC.AppLink.DAL.ClassLibrary.csproj", "{E32B05DC-134D-495C-AD3E-9AC955D0113B}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TJC.AppLink.Database.DBPRC01", "TJC.AppLink.Database\TJC.AppLink.Database.DBPRC01\TJC.AppLink.Database.DBPRC01.sqlproj", "{4B02F2D9-300E-4391-93F2-4BF893100232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJC.AppLink.ADBatch.ConsoleApp", "TJC.AppLink.ADBatch.ConsoleApp\TJC.AppLink.ADBatch.ConsoleApp.csproj", "{E049898E-D7B4-4F98-AEA9-6849A3B73735}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TJC.Database.Misc", "..\..\TJC\Database Projects\TJC.Database.Misc\TJC.Database.Misc.sqlproj", "{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TJC.AppLink.Batch.ConsoleApp", "TJC.AppLink.Batch.ConsoleApp\TJC.AppLink.Batch.ConsoleApp.vbproj", "{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release_ADBatch|Any CPU = Release_ADBatch|Any CPU
+		Release_Batch|Any CPU = Release_Batch|Any CPU
+		Release_DB|Any CPU = Release_DB|Any CPU
+		Release_WebAPIService|Any CPU = Release_WebAPIService|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release_WebAPIService|Any CPU.Build.0 = Release|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C134964A-D5E4-44C3-A81B-B746D8972A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release_WebAPIService|Any CPU.Build.0 = Release|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546ECD63-5044-4A75-8987-A23AD6BA6797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release_WebAPIService|Any CPU.Build.0 = Release|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B02169-C010-49FB-B249-2D3AC1C1CEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release_WebAPIService|Any CPU.Build.0 = Release|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDC3F6A-4E7E-446A-AF4C-CFF995E28EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release_WebAPIService|Any CPU.Build.0 = Release|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32B05DC-134D-495C-AD3E-9AC955D0113B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release_DB|Any CPU.Build.0 = Release|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B02F2D9-300E-4391-93F2-4BF893100232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release_ADBatch|Any CPU.ActiveCfg = Release_Console|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release_ADBatch|Any CPU.Build.0 = Release_Console|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E049898E-D7B4-4F98-AEA9-6849A3B73735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release_ADBatch|Any CPU.ActiveCfg = Release_EmailTask|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release_DB|Any CPU.ActiveCfg = Release_DB|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release_DB|Any CPU.Build.0 = Release_DB|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release_WebAPIService|Any CPU.ActiveCfg = Release_Web|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBF3E9B-35CD-45FA-A1C3-D637FCF906CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release_ADBatch|Any CPU.ActiveCfg = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release_Batch|Any CPU.ActiveCfg = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release_Batch|Any CPU.Build.0 = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release_DB|Any CPU.ActiveCfg = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release_WebAPIService|Any CPU.ActiveCfg = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF204B24-A2DB-4A5B-A6F3-CFEA8C0695C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://jctfssource1:8080/tfs/tjc%20application%20collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TJC.Applink.RestWebAPIService.UnitTests\\TJC.Applink.RestWebAPIService.UnitTests.csproj
+		SccProjectName1 = TJC.Applink.RestWebAPIService.UnitTests
+		SccLocalPath1 = TJC.Applink.RestWebAPIService.UnitTests
+		SccProjectUniqueName2 = TJC.Applink.RestWebAPIService\\TJC.Applink.RestWebAPIService.csproj
+		SccProjectName2 = TJC.Applink.RestWebAPIService
+		SccLocalPath2 = TJC.Applink.RestWebAPIService
+		SccProjectUniqueName3 = TJC.AppLink.BusinessEntity.ClassLibrary\\TJC.AppLink.BusinessEntity.ClassLibrary.csproj
+		SccProjectName3 = TJC.AppLink.BusinessEntity.ClassLibrary
+		SccLocalPath3 = TJC.AppLink.BusinessEntity.ClassLibrary
+		SccProjectUniqueName4 = TJC.AppLink.Models.ClassLibrary\\TJC.AppLink.Models.ClassLibrary.csproj
+		SccProjectName4 = TJC.AppLink.Models.ClassLibrary
+		SccLocalPath4 = TJC.AppLink.Models.ClassLibrary
+		SccProjectUniqueName5 = TJC.AppLink.DAL.ClassLibrary\\TJC.AppLink.DAL.ClassLibrary.csproj
+		SccProjectName5 = TJC.AppLink.DAL.ClassLibrary
+		SccLocalPath5 = TJC.AppLink.DAL.ClassLibrary
+		SccProjectUniqueName6 = TJC.AppLink.Database\\TJC.AppLink.Database.DBPRC01\\TJC.AppLink.Database.DBPRC01.sqlproj
+		SccProjectName6 = TJC.AppLink.Database/TJC.AppLink.Database.DBPRC01
+		SccLocalPath6 = TJC.AppLink.Database\\TJC.AppLink.Database.DBPRC01
+		SccProjectUniqueName7 = ..\\..\\TJC\\Database\u0020Projects\\TJC.Database.Misc\\TJC.Database.Misc.sqlproj
+		SccProjectName7 = ../../TJC/Database\u0020Projects/TJC.Database.Misc
+		SccLocalPath7 = ..\\..\\TJC\\Database\u0020Projects\\TJC.Database.Misc
+		SccProjectUniqueName8 = TJC.AppLink.ADBatch.ConsoleApp\\TJC.AppLink.ADBatch.ConsoleApp.csproj
+		SccProjectName8 = TJC.AppLink.ADBatch.ConsoleApp
+		SccLocalPath8 = TJC.AppLink.ADBatch.ConsoleApp
+		SccProjectUniqueName9 = TJC.AppLink.Batch.ConsoleApp\\TJC.AppLink.Batch.ConsoleApp.vbproj
+		SccProjectName9 = TJC.AppLink.Batch.ConsoleApp
+		SccLocalPath9 = TJC.AppLink.Batch.ConsoleApp
+	EndGlobalSection
+EndGlobal

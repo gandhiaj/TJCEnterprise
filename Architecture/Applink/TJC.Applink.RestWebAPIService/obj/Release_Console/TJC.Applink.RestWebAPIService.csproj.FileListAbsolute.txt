@@ -1,0 +1,1 @@
+C:\Test\Architecture\Applink\TJC.Applink.RestWebAPIService\obj\Release_Console\TJC.Applink.RestWebAPIService.csprojResolveAssemblyReference.cache

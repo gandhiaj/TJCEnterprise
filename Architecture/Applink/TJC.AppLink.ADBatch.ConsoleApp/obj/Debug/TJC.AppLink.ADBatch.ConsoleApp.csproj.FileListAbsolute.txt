@@ -1,0 +1,14 @@
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\App_DEV.config
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\App_PRD.config
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\App_UAT.config
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\vNextScheduledTask.ps1
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\TJC.AppLink.ADBatch.ConsoleApp.exe.config
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\TJC.AppLink.ADBatch.ConsoleApp.exe
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\TJC.AppLink.ADBatch.ConsoleApp.pdb
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\Microsoft.SharePoint.Client.dll
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\bin\System.Configuration.dll
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\obj\Debug\TJC.AppLink.ADBatch.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\obj\Debug\TJC.AppLink.ADBatch.ConsoleApp.csproj.ResolveComReference.cache
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\obj\Debug\TJC.AppLink.ADBatch.ConsoleApp.exe
+C:\Test\Architecture\Applink\TJC.AppLink.ADBatch.ConsoleApp\obj\Debug\TJC.AppLink.ADBatch.ConsoleApp.pdb

@@ -1,0 +1,16 @@
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\TJC.AppLink.Batch.ConsoleApp.exe.config
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\TJC.AppLink.Batch.ConsoleApp.exe
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\TJC.AppLink.Batch.ConsoleApp.pdb
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\System.DirectoryServices.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\bin\Newtonsoft.Json.dll
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\obj\Debug\TJC.AppLink.Batch.ConsoleApp.vbprojResolveAssemblyReference.cache
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\obj\Debug\TJC.AppLink.Batch.ConsoleApp.Resources.resources
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\obj\Debug\TJC.AppLink.Batch.ConsoleApp.vbproj.GenerateResource.Cache
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\obj\Debug\TJC.AppLink.Batch.ConsoleApp.exe
+C:\Test\Architecture\Applink\TJC.AppLink.Batch.ConsoleApp\obj\Debug\TJC.AppLink.Batch.ConsoleApp.pdb
